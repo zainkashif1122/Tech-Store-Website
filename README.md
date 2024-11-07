@@ -23,7 +23,7 @@ Welcome to **JunaidTech**, a sleek and user-friendly tech product website built 
      ```
    - Navigate to the project directory:
      ```bash
-     cd junaidtech
+     cd techwebsite
      ```
    - Open [`index.html`](index.html) in your preferred web browser to view the website locally.
 
