@@ -2,7 +2,7 @@
 
 **Explore my latest website! 🖥️**
 
-![Desktop Preview](IMG_0715.jpeg)
+![Desktop Preview](IMG_1411.jpeg)
 
 ## Description
 
